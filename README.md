@@ -7,6 +7,4 @@ See: https://web.archive.org/web/20220614001843/https://mitpress.mit.edu/sites/d
 
 There is a file that implements the scheme in the above website in Java. 
 
-The other file uses a fast adding algorithm to also compute fib(n) in O(logn) time as well
-
 This is also a solution to the 3 kyu question on Codewars called "The Millionth Fibonacci"
